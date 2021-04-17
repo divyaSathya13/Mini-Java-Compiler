@@ -1,0 +1,12 @@
+a = 3
+T1 = a + 4
+b = T1
+T2 = a > 0
+if T2 goto L1
+else goto LABEL1
+L1:T3 = a - 2
+a = T3
+goto L3
+LABEL1:T4 = T3 + 3
+a = T4
+L3:

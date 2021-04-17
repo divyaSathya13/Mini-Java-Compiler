@@ -1,0 +1,5 @@
+
+Symbol table
+Name        Value        Type        Scope        lineno        size
+ a            3         int           1            4           4
+ b            7         int           1            6           4
